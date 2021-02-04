@@ -1,0 +1,2 @@
+# CRM-Bor
+CRM DJango
